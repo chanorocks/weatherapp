@@ -1,0 +1,14 @@
+/bizmate-backend/node_modules
+/frontend/node_modules
+/bizmate-backend/public/hot
+/bizmate-backend/public/storage
+/bizmate-backend/storage/*.key
+/bizmate-backend/vendor
+/bizmate-backend/.env.backup
+/bizmate-backend/.phpunit.result.cache
+/bizmate-backend/Homestead.json
+/bizmate-backend/Homestead.yaml
+/bizmate-backend/npm-debug.log
+/bizmate-backend/yarn-error.log
+/bizmate-backend/.idea
+/bizmate-backend/.vscode
