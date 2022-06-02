@@ -5,7 +5,7 @@
  For the City of Tokyo, Yokohama, Kyoto, Osaka, Sapporo and Nagoya.
 </h4>
 
-[Live Demo](http://weatherapp-test.tk)
+[Live Demo](http://149.28.155.195/)
 
 ## 🧐 Features
 
